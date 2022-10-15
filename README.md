@@ -30,7 +30,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 ### Let's connect!
 <p>
     <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://replit.com/@cerovatar-green?" /></a>
-    <a href="https://linkedin.cerovatarzinakawara-undefined.com" target="blank"><img src="https://img.shields.io/badge/cerovatarzinakawara-undefined-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://linkedin.cerovatarzinakawaraundefined.com" target="blank"><img src="https://img.shields.io/badge/cerovatarzinakawaraundefined-30302f?style=flat&logo=linkedin" /></a>
  
 </p>
 
